@@ -1,0 +1,1 @@
+A simple script written in perl. Some people found it useful, the code is old but still if it helps at least one person then it was worth the time.
